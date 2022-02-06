@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chan19dot(Chan)
-- 👀 I’m interested in Formula !, motorsport and Aerodynamics of an aircraft
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in webdevelopment, Formula 1!, motorsport and Aerodynamics of an aircraft
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Python , Aerodynamics and small web applications and bots 
 - 📫 How to reach me
 
