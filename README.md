@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chan19dot(Chan)
 - 👀 I’m interested in webdevelopment, Formula 1!, motorsport and Aerodynamics of an aircraft
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on Python , Aerodynamics and small web applications and bots 
-- 📫 How to reach me
+- 🌱 I’m currently learning SpringBoot
+- 💞️ I’m looking to collaborate on Java,Python, Aerodynamics and small web applications and bots 
+- 📫 You can reach me by dropping a mail on srichandan99@gmail.com
 
 <!---
 chan19dot/chan19dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
