@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chan19dot(Chan)
 - 👀 I’m interested in webdevelopment, Formula 1!, motorsport and Aerodynamics of an aircraft
-- 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to collaborate on Java,Python, Aerodynamics and small web applications and bots 
+- 🌱 I’m currently learning spring security
+- 💞️ I’m looking to collaborate on Java, React Js, Angular, SpringBoot, Python, Aerodynamics and small web applications and bots 
 - 📫 You can reach me by dropping a mail on srichandan99@gmail.com
 
 <!---
