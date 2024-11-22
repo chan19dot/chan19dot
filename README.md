@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chan19dot(Srichandan)
-- 👀 I’m working as a Full stack developer in Hyderabad, India
-- 🌱 I’m currently learning React-query 
-- 💞️ I’m looking to collaborate on Java, React Js, Angular, SpringBoot, Python.
+- 👀 I’m working as a Full stack developer 
+- 💞️ I’m looking to collaborate on Java, React Js, Angular, SpringBoot, Python, C, C++, Flutter
 - 📫 You can reach me by dropping a mail on srichandan99@gmail.com
 
 <!---
